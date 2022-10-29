@@ -5,7 +5,7 @@ Participant of [30DayMapChalange](https://30daymapchallenge.com/) event by [Topi
 
 ## Progres forever
 
-- [ ] 01
+- [x] 01
 - [ ] 02
 - [ ] 03
 - [ ] 04
